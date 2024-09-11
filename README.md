@@ -46,4 +46,4 @@ A interface é dividida em diferentes seções (cards), cada uma responsável po
 Este projeto é uma poderosa ferramenta de visualização de dados que pode ser utilizada por analistas e gestores para tomar decisões informadas sobre a dinâmica dos preços de combustíveis no Brasil.
 Ao disponibilizar visualizações interativas, a aplicação facilita a identificação de padrões e tendências que poderiam passar despercebidos em análises tradicionais.
 
-Confira o projeto completo em meu portfólio: [Link para o Portfólio](https://project-gasprice.onrender.com/)
+Confira o projeto completo em meu portfólio: [Link para o Dash](https://project-gasprice.onrender.com/)
