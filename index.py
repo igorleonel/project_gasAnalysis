@@ -75,7 +75,7 @@ app.layout = dbc.Container(children=[
                 dbc.CardBody([
                     dbc.Row([
                         dbc.Col([
-                            html.Legend('Gas Prices Analysis')
+                            html.Legend('Gas Analysis')
                         ], sm=8),
                         dbc.Col([
                             html.I(className='fa fa-filter', style={'font-size': '300%'})
