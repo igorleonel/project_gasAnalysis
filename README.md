@@ -1,3 +1,5 @@
+![image](https://github.com/igorleonel/project_gasAnalysis/blob/main/capa.png)
+
 # Análise de Preços de Combustíveis no Brasil com Dash e Plotly
 
 ## Visão Geral:
